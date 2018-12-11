@@ -1,9 +1,9 @@
 {
   "name": "ShaheTool",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "沙盒工具",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://aaa.com",
+  "homepage": "https://juejin.im/user/5af01c9e518825672774572f",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -13,10 +13,14 @@
   },
   "source": {
     "git": "https://github.com/YufengHu123/YFShaheTool.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ShaheTool/Classes/**/*"
+  "source_files": "ShaheTool/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "CoreFoundation"
+  ]
 }

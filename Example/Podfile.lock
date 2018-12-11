@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - ShaheTool (0.1.1)
+  - ShaheTool (0.1.2)
 
 DEPENDENCIES:
   - FBSnapshotTestCase
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  ShaheTool: 655e78d6b86c7a6f9bc216987c214bc3888a7abe
+  ShaheTool: 252a4a48f8f434f4b718f394b969325a277f3ab6
 
 PODFILE CHECKSUM: 36620dcf6a488822a49d0cf101e672e0f807249d
 
