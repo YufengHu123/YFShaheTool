@@ -1,0 +1,6 @@
+framework module Pods_ShaheTool_Example {
+  umbrella header "Pods-ShaheTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

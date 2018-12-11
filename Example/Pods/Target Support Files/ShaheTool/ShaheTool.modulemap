@@ -1,0 +1,6 @@
+framework module ShaheTool {
+  umbrella header "ShaheTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

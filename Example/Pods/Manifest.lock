@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - ShaheTool (0.1.1)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - ShaheTool (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ShaheTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  ShaheTool: 655e78d6b86c7a6f9bc216987c214bc3888a7abe
+
+PODFILE CHECKSUM: 36620dcf6a488822a49d0cf101e672e0f807249d
+
+COCOAPODS: 1.5.3
